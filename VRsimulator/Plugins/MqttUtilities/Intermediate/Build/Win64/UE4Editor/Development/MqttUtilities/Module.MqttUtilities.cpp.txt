@@ -1,0 +1,50 @@
+D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Development\MqttUtilities\Definitions.MqttUtilities.h
+D:/VRsimulator/Plugins/MqttUtilities/Source/MqttUtilities/Private/MqttClientBase.cpp
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Private\MqttClientBase.h
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Public\Interface/MqttClientInterface.h
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Public\Entities/MqttMessage.h
+D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttMessage.generated.h
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Public\Entities/MqttConnectionData.h
+D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttConnectionData.generated.h
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Public\Entities/MqttClientConfig.h
+D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttClientConfig.generated.h
+D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttClientInterface.generated.h
+D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttClientBase.generated.h
+D:/VRsimulator/Plugins/MqttUtilities/Source/MqttUtilities/Private/MqttUtilitiesBPL.cpp
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Public\MqttUtilitiesBPL.h
+D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttUtilitiesBPL.generated.h
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows/MqttClient.h
+D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Inc\MqttUtilities\MqttClient.generated.h
+D:/VRsimulator/Plugins/MqttUtilities/Source/MqttUtilities/Private/MqttUtilitiesModule.cpp
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Public\IMqttUtilitiesModule.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+D:/VRsimulator/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/MqttClient.cpp
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows\MqttRunnable.h
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows\MqttTask.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\queue
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\algorithm
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\deque
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE\cctype
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows\Utils/StringUtils.h
+D:/VRsimulator/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/MqttClientImpl.cpp
+D:\VRsimulator\Plugins\MqttUtilities\Source\MqttUtilities\Private\Windows\MqttClientImpl.h
+D:\VRsimulator\Plugins\MqttUtilities\Source\ThirdParty\Win64\mosquittopp\includes\mosquittopp.h
+D:\VRsimulator\Plugins\MqttUtilities\Source\ThirdParty\Win64\mosquittopp\includes\../../mosquitto/includes/mosquitto.h
+D:/VRsimulator/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/MqttRunnable.cpp
+D:/VRsimulator/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/MqttTask.cpp
+D:/VRsimulator/Plugins/MqttUtilities/Source/MqttUtilities/Private/Windows/Utils/StringUtils.cpp

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MqttUtilities.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\VRsimulator\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Development\MqttUtilities\Module.MqttUtilities.cpp.obj"
+"D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Development\MqttUtilities\Module.MqttUtilities.gen.cpp.obj"
+"D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Development\MqttUtilities\Default.rc2.res"
+/OUT:"D:\VRsimulator\Plugins\MqttUtilities\Intermediate\Build\Win64\UE4Editor\Development\MqttUtilities\UE4Editor-MqttUtilities.lib"
