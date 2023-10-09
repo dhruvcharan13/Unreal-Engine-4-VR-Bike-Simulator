@@ -23,13 +23,13 @@ This VR simulator was conceived and created as part of my internship at NITK, Su
 
 ## Using the solution:
 
-Wireless communication
+### Wireless communication
 
 1. Set up a mosquitto server.
 
 2. Get the IP configuration from CMD.
 
-ESP32
+### ESP32
 
 1. Connect your first ESP32 to a KY-040 encoder at pins 4 and 5.
 
@@ -43,7 +43,7 @@ ESP32
 
 6. Upload the cycle_servo code to the second ESP32.
 
-Unreal Engine 4
+### Unreal Engine 4
 
 1. Run VRsimulator.uproject.
 
