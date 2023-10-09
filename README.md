@@ -1,11 +1,15 @@
 # Unreal-Engine-4-VR-Bike-Simulator
-This is a VR simulator project. The simulation is done in Unreal Engine 4.27 VR and I am using 2 ESP32 chips to give the input and output of the simulation
+Welcome to the VR Simulator project, a cutting-edge virtual reality experience developed in Unreal Engine 4.27. This project seamlessly integrates the functionality of two ESP32 microcontroller chips, enabling bidirectional communication between the virtual world and external devices.
 
-The files in this project includes everything needed to compile and run the simulator in Unreal Engine 4.27. It might work in other versions, but this is not tested.
+## Getting Started
 
-The simulator was made by me as an internship project at NITK, Surathkal.
+This repository contains all the necessary files and resources to compile and run the simulator within Unreal Engine 4.27. While it might be compatible with other Unreal Engine versions, thorough testing has been limited to version 4.27.
 
-Installing the solution:
+## Project Origin
+
+This VR simulator was conceived and created as part of my internship at NITK, Surathkal. It serves as a testament to the practical applications of virtual reality technology.
+
+## Installing the solution:
 
 1. Download Unreal Engine from www.unrealengine.com.
 
@@ -17,7 +21,7 @@ Installing the solution:
 
 5. Download the ArduinoIDE files.
 
-Using the solution:
+## Using the solution:
 
 Wireless communication
 
@@ -50,7 +54,7 @@ Unreal Engine 4
 4. Play the simulation in VR preview mode.
 
 
-Controlling the simulator
+## Controlling the simulator
 
 1. Use the potentiometer to steer left and right.
 
