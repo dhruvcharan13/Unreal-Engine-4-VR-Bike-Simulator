@@ -1,4 +1,4 @@
-# Unreal-Engine-4-VR-Bike-Simulator
+# Unreal-Engine-4-VR-Bicycle-Simulator
 Welcome to the VR Simulator project, a cutting-edge virtual reality experience developed in Unreal Engine 4.27. This project seamlessly integrates the functionality of two ESP32 microcontroller chips, enabling bidirectional communication between the virtual world and external devices.
 
 ## Getting Started
